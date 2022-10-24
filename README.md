@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/coyag1" target="blank"><img src="https://img.shields.io/twitter/follow/coyag1?logo=twitter&style=for-the-badge" alt="coyag1" /></a> </p>
 
-- 🔭 I’m currently working on **Hacktober**
+- 🔭 I’m currently working on **Hacktoberfest**
 
 - 🌱 I’m currently learning **JavaScript**
 
